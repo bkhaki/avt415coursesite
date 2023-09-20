@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    background-color: white;
+  }
+
+  .p1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 80px;
+    font-family: cursive;
+  }
+
+  h2 {
+    color: rgb(239, 174, 44);
+    text-align: center;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  
+  h3 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 15px;
+    font-family: verdana;
+    font-style: italic;
+  }
+
+  h4 {
+    color: rgb(0, 0, 0);
+    text-align: right;
+    font-family: verdana;
+    font-size: 15px;
+  }
+
+
+
+  p {
+    font-family: verdana;
+    font-size: 15px;
+  }
